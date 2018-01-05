@@ -1,0 +1,18 @@
+PODS:
+  - AMapFoundation-NO-IDFA (1.4.2)
+  - AMapLocation-NO-IDFA (2.5.0):
+    - AMapFoundation-NO-IDFA (~> 1.4)
+  - BMKLocationKit (1.0.1)
+
+DEPENDENCIES:
+  - AMapLocation-NO-IDFA
+  - BMKLocationKit (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  AMapFoundation-NO-IDFA: 3b9ce87abc6a37c718cc320687469d0b74d5c953
+  AMapLocation-NO-IDFA: be669085a8cc0d22820022fc61d58811d24b4e3a
+  BMKLocationKit: b4adffae918758c02bddec7ace8ba5487544bd69
+
+PODFILE CHECKSUM: 0c48e10f557c9607dd64388b5b285900a20dda9b
+
+COCOAPODS: 1.2.1
